@@ -1,5 +1,4 @@
-# 266 Natural Language Processing Final Project
-**Spring 2023**
+# 266 Natural Language Processing Final Project (Spring 2023)
 
 This is KT Norton and Arisa Nguyen's repository for the 266 Natural Language Processing final project. Our project aims to understand the difference in quality between abtractive and extractive summarization models.  It also aims analyze the quality of machine-generated summarizations when dealing with proper nouns. 
 
